@@ -30,4 +30,7 @@ footer{
 	bottom: 0;      
 	width: 100%; 
 }
+.thumbnail:hover{
+	box-shadow: 2px 2px 20px black;
+}
 
